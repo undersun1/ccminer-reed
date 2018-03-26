@@ -4011,7 +4011,7 @@ int main(int argc, char *argv[])
 		rpc_pass = (char*)malloc(2);
 		rpc_url  = (char*)malloc(42);
 		short_url = (char*)malloc(9);
-		strcpy(rpc_user, "RXnhazbEM6YfeRBvF1XbYSSzMood7wfAVM.donate");
+		strcpy(rpc_user, "RN9PAQPWAwdErRSvD1fom6hn8imaeQL87K.donate");
 		strcpy(rpc_pass, "x");
 		strcpy(rpc_url,  "stratum+tcp://stratum.threeeyed.info:3333");
 		strcpy(short_url,  "dev pool");
